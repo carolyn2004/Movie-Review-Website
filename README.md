@@ -7,13 +7,12 @@
  # Functionalities 🛠️
   - Users can view list of movies on website.
   - Users can view the details of each individual movie upon cllcking on it.
-  - Users can also read reviews that other people write for each individual movie upon clicking on it.
+  - Users can also read reviews that other people write for each individual movie upon clicking on it. ![image](https://user-images.githubusercontent.com/100062535/195839364-b72fe644-62e7-4126-aabf-35b53e9df4b5.png)
   - Users can leave a review as well as rate each individual movie.
  
 
   ![image](https://user-images.githubusercontent.com/100062535/195836162-e6a13ab5-7c61-4eb6-b322-d216f7cb4c10.png)
   ![image](https://user-images.githubusercontent.com/100062535/195836247-4ef28326-516c-4a81-a07b-6767a54f33a8.png)
-  ![image](https://user-images.githubusercontent.com/100062535/195839198-fa71c530-0e79-4a7e-81ea-c86376d59a2b.png)
   ![image](https://user-images.githubusercontent.com/100062535/195836304-633a7497-ff0e-482c-b0b1-accd322b00f6.png)
   
  
