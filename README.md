@@ -5,7 +5,7 @@
   - To view my other website which is built using the same 3 tier web architecture (graded) click on this link: https://github.com/carolyn2004/The-Hungry-Bear
  
  # Functionalities 🛠️
-  - Users can view list of movies on website. <img align="right" width="30%" height="30%" src="https://user-images.githubusercontent.com/100062535/195839556-54ac7901-bfec-4dd2-a230-d5ef93e69bae.png" />
+  - Users can view list of movies on website. <img align="right" width="30%" height="20%" src="https://user-images.githubusercontent.com/100062535/195839556-54ac7901-bfec-4dd2-a230-d5ef93e69bae.png" />
   
   - Users can view the details of each individual movie upon cllcking on it.
   - Users can also read reviews that other people write for each individual movie upon clicking on it. 
